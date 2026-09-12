@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
