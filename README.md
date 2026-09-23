@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -103,5 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
