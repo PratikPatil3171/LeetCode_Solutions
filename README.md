@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
