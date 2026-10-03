@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
