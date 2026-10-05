@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -153,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
