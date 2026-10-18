@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
