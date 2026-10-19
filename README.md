@@ -182,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
