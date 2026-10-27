@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2073-time-needed-to-buy-tickets](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
