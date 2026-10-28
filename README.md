@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
