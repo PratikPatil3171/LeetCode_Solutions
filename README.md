@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
