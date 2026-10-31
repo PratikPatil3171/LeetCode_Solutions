@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
