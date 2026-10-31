@@ -33,9 +33,9 @@ class Solution {
            }
                 
         }
-        if(i==n && j!=m){
-            return tl[j];
-        }
-        return ' ';
+        // if(i==n && j!=m){
+        //     return tl[j];
+        // }
+        return tl[m-1];
     }
 }
