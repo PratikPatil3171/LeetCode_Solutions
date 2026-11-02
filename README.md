@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
