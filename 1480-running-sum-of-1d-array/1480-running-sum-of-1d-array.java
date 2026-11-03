@@ -4,14 +4,15 @@ class Solution {
         arr[0] = nums[0];
         // int sum = nums[0];
         for(int i=1;i<nums.length;i++){
-
-            int j=0;
-            int sum=0;
-            while(j<=i){
-               sum += nums[j];
-               j++;  
-            }
+            int sum = nums[i]+arr[i-1];
             arr[i] = sum;
+            // int j=0;
+            // int sum=0;
+            // while(j<=i){
+            //    sum += nums[j];
+            //    j++;  
+            // }
+            // arr[i] = sum;
         }
         return arr;
 
