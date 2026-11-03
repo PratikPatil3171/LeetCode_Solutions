@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
