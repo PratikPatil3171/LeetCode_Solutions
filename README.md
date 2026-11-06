@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -308,5 +309,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
