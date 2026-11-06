@@ -1,14 +1,22 @@
 class Solution {
     public int hammingWeight(int n) {
-        int helper=1;
-        int cnt=0;
-        for(int i=1;i<=32;i++){
-            if((helper&n)!=0){
-                cnt++;
-            }
-            helper = helper<<1;
+        int count = 0;
+        while (n != 0) {
+            n &= (n - 1); // Clears the rightmost set bit
+            count++;
         }
-        return cnt;
+        return count;
+
+
+        // int helper=1;
+        // int cnt=0;
+        // for(int i=1;i<=32;i++){
+        //     if((helper&n)!=0){
+        //         cnt++;
+        //     }
+        //     helper = helper<<1;
+        // }
+        // return cnt;
 
 
 
