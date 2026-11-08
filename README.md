@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
