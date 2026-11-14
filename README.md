@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
