@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0137-single-number-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
