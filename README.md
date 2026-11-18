@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1314-matrix-block-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1051-height-checker](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
@@ -323,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
