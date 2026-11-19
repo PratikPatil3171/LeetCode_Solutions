@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1051-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
