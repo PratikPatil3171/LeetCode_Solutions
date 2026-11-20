@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
