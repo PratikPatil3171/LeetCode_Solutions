@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/PratikPatil3171/LeetCode_Solutions/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
